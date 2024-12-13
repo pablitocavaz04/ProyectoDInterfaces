@@ -1,0 +1,15 @@
+C:\Users\pcamvaz2106\source\repos\ProyectoDataBase\ProyectoDataBase\obj\Debug\ProyectoDataBase.csproj.AssemblyReference.cache
+C:\Users\pcamvaz2106\source\repos\ProyectoDataBase\ProyectoDataBase\obj\Debug\App.g.cs
+C:\Users\pcamvaz2106\source\repos\ProyectoDataBase\ProyectoDataBase\obj\Debug\ProyectoDataBase_MarkupCompile.cache
+C:\Users\pcamvaz2106\source\repos\ProyectoDataBase\ProyectoDataBase\bin\Debug\ProyectoDataBase.exe.config
+C:\Users\pcamvaz2106\source\repos\ProyectoDataBase\ProyectoDataBase\bin\Debug\ProyectoDataBase.exe
+C:\Users\pcamvaz2106\source\repos\ProyectoDataBase\ProyectoDataBase\bin\Debug\ProyectoDataBase.pdb
+C:\Users\pcamvaz2106\source\repos\ProyectoDataBase\ProyectoDataBase\obj\Debug\MainWindow.g.cs
+C:\Users\pcamvaz2106\source\repos\ProyectoDataBase\ProyectoDataBase\obj\Debug\ProyectoDataBase_MarkupCompile.lref
+C:\Users\pcamvaz2106\source\repos\ProyectoDataBase\ProyectoDataBase\obj\Debug\MainWindow.baml
+C:\Users\pcamvaz2106\source\repos\ProyectoDataBase\ProyectoDataBase\obj\Debug\ProyectoDataBase.g.resources
+C:\Users\pcamvaz2106\source\repos\ProyectoDataBase\ProyectoDataBase\obj\Debug\ProyectoDataBase.Properties.Resources.resources
+C:\Users\pcamvaz2106\source\repos\ProyectoDataBase\ProyectoDataBase\obj\Debug\ProyectoDataBase.csproj.GenerateResource.cache
+C:\Users\pcamvaz2106\source\repos\ProyectoDataBase\ProyectoDataBase\obj\Debug\ProyectoDataBase.csproj.CoreCompileInputs.cache
+C:\Users\pcamvaz2106\source\repos\ProyectoDataBase\ProyectoDataBase\obj\Debug\ProyectoDataBase.exe
+C:\Users\pcamvaz2106\source\repos\ProyectoDataBase\ProyectoDataBase\obj\Debug\ProyectoDataBase.pdb
